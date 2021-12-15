@@ -14,7 +14,7 @@ Requirements: ```discord.py``` Install it with `pip install discord.py`
   
   
 
-1. Clone this repository ```git clone https://github.com/FabiChan99/disboard-bump-bot)```
+1. Clone this repository ```git clone https://github.com/FabiChan99/disboard-bump-bot```
 
 2. Change your Variables in Code
 
